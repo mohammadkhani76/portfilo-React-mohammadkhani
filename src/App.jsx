@@ -99,7 +99,7 @@ function App() {
           <Product
             title="The Boring Company"
             firstdescription="Infrastructure and tunnel construction services"
-            description="The Boring Company constructs safe, fast-to-dig, and low-cost transportation, utility, and freight tunnels."
+            description="The Boring Company constructs safe, fast-to-dig, and low-cost transportation."
           />
         </div>
       </div>

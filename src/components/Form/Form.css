@@ -17,10 +17,11 @@ form {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 90%;
+  width: 100%;
   background-color: #333;
   border-radius: 4px;
   padding: 20px;
+  overflow: hidden;
 }
 .input__container {
   width: 100%;
