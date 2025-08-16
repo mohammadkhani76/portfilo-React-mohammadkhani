@@ -46,8 +46,6 @@ const Form = ({
         </div>
         <div className="input__container">
           <textarea
-            rows="4"
-            cols="60"
             type="text"
             name="text"
             placeholder="Your Idea"
